@@ -1,0 +1,286 @@
+red, red; glad; read; rat
+green, green; clean; great
+blue, blue; hello
+white, white; why; what; like
+black, black; break
+orange, orange; rain
+purple, purple; calypso; help
+yellow, yellow
+pink, pink; speak; pick
+circle, circle; sukkot; sicko
+square, square; screen; screw; squirrel
+star, star; start; stop
+triangle, triangle; chuck
+rectangle, rectangle; rate; ready to go
+heart, heart; hello; hot
+arrow, arrow; hello; era; Eric
+cross, cross; close
+diamond, diamond; diamonds
+left, left; laugh; lap
+right, right; rights
+up, up; app; pat
+down, down; done; phone; john; stop; phone
+forwards, forwards; forward; close; flowers; fulmars; follow
+backwards, backwards; backwoods
+sideways, sideways
+turn, turn; tone; term
+across, across; close
+sunny, sunny; sunny; Sunday; sesame; signing; sorry
+rainy, rainy;; Britney; running; brain
+windy, windy; Wendy; brandy; lindy; winking
+cloudy, cloudy; call jenny; lobby 
+foggy, foggy; funky; foggy; farting
+stormy, stormy; stony; still; tommy 
+snowy, snowy; snowing; slowly; snoring
+hot, hot; hots
+cold, cold; call; coat; cold; code
+car, car; hi; call; cart
+van, van; send; man; rain; venom; right; venom
+bus, bus
+train, train; trying; chain; trend
+airplane; airplay; paraphrase
+helicopter, helicopter
+ship, ship; shit
+bike, bike; like; thank; bye
+motorcycle, motorcycle
+eyes, eyes; ice
+mouth, mouth; mouse
+nose, nose; knows; notes
+ears, ears; yes; pairs; years
+lips, lips; replace; next; lettuce; lust
+hair, hair; hello; hair; write that
+neck, neck; matt; nick; knack; lack
+chin, chin; shit; toon; chicken; chain; chicken
+cheeks, cheeks; chicks; cheese; chief
+head, head; Helen; hello; text; hat; supercut
+shoulders, shoulders; sodas
+arms, arms; us; alright
+legs, legs; complex; x; less; next
+hands, hands; hello this; hey; hams; has
+feet, feet; see; sick
+stomach, stomach; summer
+chest, chest; test; kiss; trust; chad
+knees, knees; nice; please; goodness; nice
+shirt, shirt; shit; suck; shirt; shirt; shut up; certain; shirt
+jacket, jacket; Jackie
+dress, dress; just; jess; Jeff
+skirt, skirt; Scott; start; skirts
+trousers, trousers; tresses; process; charges
+shorts, shorts; shocks; sauce; sure; shirts; charlotte; shots
+jeans, jeans; jims; jims 
+socks, socks; sucks; sauce
+shoes, shoes; shit
+coat, coat; coat; call
+hat, hat; pet; text; hey; hats
+gloves, gloves; claps; girls
+boots, boots; booze; post
+slippers, slippers; sleep; strippers; smokeless
+vest, vest; rest; best; what; best
+underpants, underpants
+scarf, scarf
+jumper, jumper; jump
+bracelet, bracelet; bristly; racing; bracelets
+necklace, necklace; Nicholas; nonetheless
+glasses, glasses; clock six; classes
+necktie, necktie; naptime; next time
+bowtie, bowtie; okay
+ring, ring; friend; laying; writing; rain
+earrings, earrings; airings
+watch, watch
+belt, belt; that; back
+dog, dog; stop 
+cat, cat; cat; text; cats
+hamster, hamster; hat to; hey
+fish, fish; thanks; face
+turtle, turtle; hello; turbo
+rabbit, rabbit; read; breakfast; rapids
+guinea, guinea
+lizard, lizard; Lisa; lizard; leader; later
+bird, bird; boot
+horse, horse; almost; horse; close
+pig, pig; pick; pink 
+sheep, sheep; shit; cheap
+goose, goose; lose; Doris
+chicken, chicken
+goat, goat; go; goats
+duck, duck
+donkey, donkey; donkey; dunking
+turkey, turkey; turkey; talking; checking
+lion, lion; lion; lying; line 
+tiger, tiger
+bear, bear; back; bear; bell; babe 
+monkey, monkey
+deer, deer; dear
+elephant, elephant 
+fox, fox; fast
+zebra, zebra; diva; jibber
+giraffe, giraffe
+shark, shark; shock; shop; suck
+whale, whale; rail; babe; whale
+dolphin, dolphin; nothing; doffing
+octopus, octopus 
+jellyfish, jellyfish
+squid, squid; script; summary; great
+fish, fish; face
+seahorse, seahorse; 
+starfish, starfish
+spider, spider; 
+grasshopper, grasshopper
+ladybird, ladybird; neighbor
+butterfly, butterfly
+ant, ant; at; aunt; at; Ed 
+wasp, wasp; what; Wallace; plus; lost
+fly, fly; fry; flat
+bee, bee; be; coffee
+mosquito, mosquito
+rice, rice
+noodles, noodles
+bread, bread; read
+egg, egg; X; eight; Eric
+porridge, porridge; Paris; porch; paunch
+meat, meat; me; meet; mick; make; needs
+cheese, cheese; chase
+vegetables, vegetables; vegetable; message to both
+salad, salad; Sarah; select; Santa
+soda, soda
+milk, milk; man
+coffee, coffee
+tea, tea; t
+lemonade, lemonade; laminate; nominate
+soy, soy 
+chocolate, chocolate
+water, water; would
+banana, banana
+strawberries, strawberries; syndrome 
+pineapple, pineapple 
+cherries, cherries; charities
+apple, apple; at home; echo; at home
+orange, orange 
+pear, pear; cancel; hello; pam; panda
+grapes, grapes; grace
+watermelon, watermelon
+eggplant, eggplant; effluent; apron; April
+corn, corn; con; call 
+carrot, carrot; Sarah; carol; Kerry; carrots
+potato, potato
+turnip, turnip; connect; Doris; Tanya
+mushroom, mushroom; Michelle; mustard; mushrooms
+radish, radish; brandish
+pepper, pepper
+belle, belle 
+onion, onion
+cabbage, cabbage; cappuccino; Kevin
+lettuce, lettuce; Lexus; radars
+watercress, watercress
+broccoli, broccoli 
+sprouts, sprouts; thoughts 
+coriander, coriander
+curly , curly, carol
+kale, kale; Karen
+spinach, spinach; Spanish; superrich
+celery, celery; sorry 
+school, school 
+house, house; hi 
+library, library
+supermarket, supermarket 
+hospital, hospital
+restaurant, restaurant; restaurants
+market, market 
+cinema, cinema
+police, police ; Paris
+station, station; stupid
+mountain, mountain; martin; motor
+hill, hill; hello; help
+forest, forest; first; focus
+river, river; reaper 
+waterfall, waterfall; wonderful
+footpath, footpath; footpads
+stream, stream; jane; citrine; strength
+meadow, meadow; hello; meta; weather 
+cliff, cliff; clip; please; curve
+classroom, classroom; custom 
+school, school ; home
+hall, hall; call
+science, science; sounds; silence
+lab, lab; like; life
+computer room, computer room
+library, library
+gym, gym; Jim
+cafeteria, cafeteria 
+playground, playground; hooray 
+sports, sports
+field , field; feel 
+bedroom, bedroom; bathroom
+living, living; raving
+room, room; long
+study, study; set
+dining, dining; tiling 
+room, room 
+kitchen, kitchen; picture
+bathroom, bathroom; testing 
+attic, attic; edit
+cellar, cellar; seller; solera; Santa
+laundry, laundry; roger
+merry, merry ;Mary
+go, go 
+round; round; wrong
+sandpit, sandpit; send; sentiment
+see,  see
+saw, saw 
+swing, swing; three
+slide, slide; slight; flight; cilantro
+zip, zip; sent; set
+wire, wire ; via; while 
+springer, springer; finger; spring 
+monkey, monkey
+bars, bars; balls; boss
+climbing, climbing
+net, net; nuts
+grandfather, grandfather; graham
+grandmother, grandmother
+aunt, aunt; end; at; edit
+uncle, uncle
+father, father
+mother, mother; Linda
+sister, sister; sixth
+brother, brother; problem
+baby, baby
+doctor, doctor
+nurse, nurse; nuts; embarrassed; the
+teacher, teacher
+police, police 
+officer, officer 
+lifeguard, lifeguard; live
+firefighter, firefighter
+waiter, waiter; weather; return; later
+cashier, cashier; cashew
+vet, vet; that
+scientist, scientist
+plumber, plumber
+hair, hair; hello,  hey
+dresser, dresser; Justin; Jessica; Sarah; Jason
+mechanic, mechanic
+pilot, pilot; hello; pilots
+actor, actor; after 
+chef, chef; check; Jeff 
+builder, builder; filter 
+photographer, photographer 
+reading, reading; ready
+drawing, drawing; trying; Johnny; drain; Charlie
+painting, painting; hating; Angie 
+knitting, knitting; send; nothing
+singing, singing; thinking; see; saying
+dancing, dancing; daisy
+sewing, sewing; silly; seven; sorry
+collecting, collecting; cricket
+writing, writing; riding
+football, football
+basketball, basketball
+baseball, baseball; thanks
+badminton, badminton; bet 
+table, table; temple
+tennis, tennis; terrace
+swimming, swimming; swimmy 
+cycling, cycling; cycle 
+ice, ice
+skating, skating  
