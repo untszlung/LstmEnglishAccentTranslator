@@ -6,21 +6,9 @@ Created on Fri Oct  1 17:22:16 2021
 @author: tszlung
 """
 from numpy import array
-from numpy import cumsum
-from matplotlib import pyplot
-from pandas import DataFrame
 from tensorflow import keras
-from keras.models import Sequential
-from keras.layers import LSTM
-from keras.layers import Dense
-from keras.layers import TimeDistributed
-from keras.layers import Bidirectional
-from keras.layers import Dropout
-from tensorflow.keras.utils import to_categorical
 from sklearn.preprocessing import LabelEncoder
 import numpy as np
-import tensorflow as tf
-import random
 import re
 import json
 
